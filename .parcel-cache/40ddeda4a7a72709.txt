@@ -11,7 +11,7 @@
 62C:\Users\izi\Desktop\course\final project\node_modules\js-yaml133348256608256867 1
 81C:\Users\izi\Desktop\course\final project\node_modules\css-tree\lib\utils\List.js133348256682046866 0
 92C:\Users\izi\Desktop\course\final project\node_modules\@parcel\transformer-svg\src\inline.js133348256557591503 0
-69C:\Users\izi\Desktop\course\final project\src\js\views\previewView.js133348270995553799 0
+69C:\Users\izi\Desktop\course\final project\src\js\views\previewView.js133349064051375256 0
 126C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-class-list.js133348256617896888 0
 112C:\Users\izi\Desktop\course\final project\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQuery.cjs133348256654186858 0
 97C:\Users\izi\Desktop\course\final project\node_modules\css-tree\lib\syntax\node\index-generate.js133348256679686876 0
@@ -39,7 +39,7 @@
 84C:\Users\izi\Desktop\course\final project\node_modules\regenerator-runtime\README.md133348256539861495 0
 64C:\Users\izi\Desktop\course\final project\node_modules\@mischnic133348256506448310 1
 87C:\Users\izi\Desktop\course\final project\node_modules\@parcel\resolver-default\LICENSE133348256554011482 0
-46C:\Users\izi\Desktop\course\final project\dist133348374062274531 1
+46C:\Users\izi\Desktop\course\final project\dist133349076629073012 1
 81C:\Users\izi\Desktop\course\final project\node_modules\csso\node_modules\mdn-data133348256622776876 1
 86C:\Users\izi\Desktop\course\final project\node_modules\lmdb\dependencies\lz4\lib\lz4.c133348256606216882 0
 111C:\Users\izi\Desktop\course\final project\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133348256689556855 0
@@ -158,7 +158,7 @@
 86C:\Users\izi\Desktop\course\final project\node_modules\caniuse-lite\data\regions\BD.js133348256634706874 0
 59C:\Users\izi\Desktop\course\final project\node_modules\@swc133348355396055899 1
 118C:\Users\izi\Desktop\course\final project\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules133348256661916878 1
-69C:\Users\izi\Desktop\course\final project\src\js\views\resultsView.js133348271520851884 0
+69C:\Users\izi\Desktop\course\final project\src\js\views\resultsView.js133349064297950890 0
 89C:\Users\izi\Desktop\course\final project\node_modules\core-js\proposals\seeded-random.js133348353979587772 0
 48C:\Users\izi\Desktop\course\final project\src\js133348272463021877 1
 76C:\Users\izi\Desktop\course\final project\node_modules\@parcel\markdown-ansi133348256544871468 1
@@ -181,7 +181,7 @@
 105C:\Users\izi\Desktop\course\final project\node_modules\csso\node_modules\css-tree\lib\generator\create.js133348256674266844 0
 87C:\Users\izi\Desktop\course\final project\node_modules\core-js\actual\instance\slice.js133348353987203267 0
 84C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-css\LICENSE133348256558491516 0
-57C:\Users\izi\Desktop\course\final project\src\js\model.js133348379277793062 0
+57C:\Users\izi\Desktop\course\final project\src\js\model.js133348384007573868 0
 75C:\Users\izi\Desktop\course\final project\node_modules\process\package.json133348355395315915 0
 60C:\Users\izi\Desktop\course\final project\src\sass\main.scss133348239994962545 0
 82C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\promise\try.js133348354012906765 0
@@ -238,10 +238,10 @@
 96C:\Users\izi\Desktop\course\final project\node_modules\css-tree\cjs\syntax\node\FeatureRange.cjs133348256618556864 0
 63C:\Users\izi\Desktop\course\final project\src\sass\_upload.scss133348239994505998 0
 87C:\Users\izi\Desktop\course\final project\node_modules\core-js\features\bigint\index.js133348353932644897 0
-58C:\Users\izi\Desktop\course\final project\src\js\config.js133348272182656053 0
+58C:\Users\izi\Desktop\course\final project\src\js\config.js133349076620540803 0
 74C:\Users\izi\Desktop\course\final project\node_modules\base-x\package.json133348256540021471 0
 86C:\Users\izi\Desktop\course\final project\node_modules\core-js\stable\instance\with.js133348354022149006 0
-62C:\Users\izi\Desktop\course\final project\src\js\controller.js133348379686090632 0
+62C:\Users\izi\Desktop\course\final project\src\js\controller.js133349063364981123 0
 110C:\Users\izi\Desktop\course\final project\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts133348256645836883 0
 105C:\Users\izi\Desktop\course\final project\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133348256593786874 0
 86C:\Users\izi\Desktop\course\final project\node_modules\semver\ranges\max-satisfying.js133348256595576890 0
@@ -266,7 +266,7 @@
 111C:\Users\izi\Desktop\course\final project\node_modules\@swc\helpers\esm\_create_for_of_iterator_helper_loose.js133348256674806888 0
 64C:\Users\izi\Desktop\course\final project\node_modules\lru-cache133348256535511502 1
 107C:\Users\izi\Desktop\course\final project\node_modules\@swc\helpers\_\_class_private_field_get\package.json133348256694916878 0
-71C:\Users\izi\Desktop\course\final project\src\js\views\bookmarksView.js133348270469228111 0
+71C:\Users\izi\Desktop\course\final project\src\js\views\bookmarksView.js133349063742147258 0
 72C:\Users\izi\Desktop\course\final project\node_modules\sass\package.json133348259111826821 0
 85C:\Users\izi\Desktop\course\final project\node_modules\nth-check\lib\compile.d.ts.map133348256554361490 0
 81C:\Users\izi\Desktop\course\final project\node_modules\color-convert\CHANGELOG.md133348256529994182 0
@@ -276,13 +276,13 @@
 89C:\Users\izi\Desktop\course\final project\node_modules\core-js\modules\esnext.map.from.js133348353892236469 0
 91C:\Users\izi\Desktop\course\final project\node_modules\css-tree\cjs\syntax\atrule\media.cjs133348256649346882 0
 93C:\Users\izi\Desktop\course\final project\node_modules\core-js\actual\object\define-getter.js133348353859028071 0
-71C:\Users\izi\Desktop\course\final project\src\js\views\addRecipeView.js133348270234491792 0
+71C:\Users\izi\Desktop\course\final project\src\js\views\addRecipeView.js133349063654606779 0
 103C:\Users\izi\Desktop\course\final project\node_modules\css-select\node_modules\entities\lib\decode.d.ts133348256644776868 0
 83C:\Users\izi\Desktop\course\final project\node_modules\css-tree\cjs\utils\ident.cjs133348256630726894 0
 91C:\Users\izi\Desktop\course\final project\node_modules\core-js\features\math\rad-per-deg.js133348353972587311 0
-72C:\Users\izi\Desktop\course\final project\src\js\views\paginationView.js133348270650688907 0
+72C:\Users\izi\Desktop\course\final project\src\js\views\paginationView.js133349063943105636 0
 84C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\date\set-year.js133348353984941378 0
-68C:\Users\izi\Desktop\course\final project\src\js\views\recipeView.js133348366762203882 0
+68C:\Users\izi\Desktop\course\final project\src\js\views\recipeView.js133349065202107948 0
 103C:\Users\izi\Desktop\course\final project\node_modules\caniuse-lite\data\features\css-color-function.js133348256669876886 0
 117C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Number.js133348256631366870 0
 75C:\Users\izi\Desktop\course\final project\node_modules\csso\lib\restructure133348256654866856 1
@@ -298,7 +298,7 @@
 65C:\Users\izi\Desktop\course\final project\node_modules\color-name133348256535381505 1
 75C:\Users\izi\Desktop\course\final project\node_modules\json5\dist\index.mjs133348256574856880 0
 86C:\Users\izi\Desktop\course\final project\node_modules\css-select\lib\esm\index.js.map133348256625256864 0
-68C:\Users\izi\Desktop\course\final project\src\js\views\searchView.js133348271702598802 0
+68C:\Users\izi\Desktop\course\final project\src\js\views\searchView.js133349064376766902 0
 79C:\Users\izi\Desktop\course\final project\node_modules\entities\lib\decode.d.ts133348256591746861 0
 94C:\Users\izi\Desktop\course\final project\node_modules\core-js\features\string\virtual\link.js133348353953004907 0
 74C:\Users\izi\Desktop\course\final project\node_modules\@swc\core\util.d.ts133348256602726894 0
@@ -314,7 +314,7 @@
 63C:\Users\izi\Desktop\course\final project\node_modules\argparse133348256553221485 1
 104C:\Users\izi\Desktop\course\final project\node_modules\css-select\node_modules\domutils\lib\index.js.map133348256619376858 0
 77C:\Users\izi\Desktop\course\final project\node_modules\@swc\helpers\_\_update133348256706376918 1
-62C:\Users\izi\Desktop\course\final project\src\js\views\view.js133348269913824941 0
+62C:\Users\izi\Desktop\course\final project\src\js\views\view.js133349064561768338 0
 101C:\Users\izi\Desktop\course\final project\node_modules\abortcontroller-polyfill\src\abortableFetch.js133348256540631488 0
 108C:\Users\izi\Desktop\course\final project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133348256638386878 0
 110C:\Users\izi\Desktop\course\final project\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js133348256678156922 0
@@ -711,7 +711,7 @@
 107C:\Users\izi\Desktop\course\final project\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133348256597276882 0
 85C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\weak-set\index.js133348353935474890 0
 65C:\Users\izi\Desktop\course\final project\node_modules\parse-json133348256537001477 1
-68C:\Users\izi\Desktop\course\final project\dist\index.e37f48ea.js.map133348374061805135 0
+68C:\Users\izi\Desktop\course\final project\dist\index.e37f48ea.js.map133349076629043137 0
 107C:\Users\izi\Desktop\course\final project\node_modules\@babel\highlight\node_modules\color-convert\index.js133348256537481499 0
 74C:\Users\izi\Desktop\course\final project\node_modules\@parcel\workers\src133348256619866869 1
 71C:\Users\izi\Desktop\course\final project\node_modules\lmdb\SECURITY.md133348256670876861 0
@@ -733,7 +733,7 @@
 87C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\iterator\dispose.js133348353861848067 0
 131C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133348256664986838 0
 95C:\Users\izi\Desktop\course\final project\node_modules\caniuse-lite\data\features\es6-module.js133348256694576890 0
-65C:\Users\izi\Desktop\course\final project\dist\index.f7626f62.css133348374061034549 0
+65C:\Users\izi\Desktop\course\final project\dist\index.f7626f62.css133349075476569277 0
 104C:\Users\izi\Desktop\course\final project\node_modules\dom-serializer\node_modules\entities\lib\index.js133348256582006876 0
 89C:\Users\izi\Desktop\course\final project\node_modules\core-js\stable\string\fontcolor.js133348353910592504 0
 74C:\Users\izi\Desktop\course\final project\node_modules\tslib\tslib.es6.mjs133348256556181492 0
@@ -2981,7 +2981,7 @@
 89C:\Users\izi\Desktop\course\final project\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133348256612876887 0
 75C:\Users\izi\Desktop\course\final project\node_modules\js-yaml\package.json133348256606256863 0
 72C:\Users\izi\Desktop\course\final project\node_modules\js-yaml\README.md133348256608426893 0
-64C:\Users\izi\Desktop\course\final project\dist\index.e37f48ea.js133348374061044542 0
+64C:\Users\izi\Desktop\course\final project\dist\index.e37f48ea.js133349076628943085 0
 76C:\Users\izi\Desktop\course\final project\node_modules\js-yaml\lib\common.js133348256540521469 0
 79C:\Users\izi\Desktop\course\final project\node_modules\js-yaml\lib\exception.js133348256553921479 0
 132C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\selector.js133348256667236865 0
@@ -3479,7 +3479,7 @@
 81C:\Users\izi\Desktop\course\final project\node_modules\@parcel\graph\src\Graph.js133348256577256854 0
 89C:\Users\izi\Desktop\course\final project\node_modules\core-js\stable\string\trim-left.js133348354010980620 0
 84C:\Users\izi\Desktop\course\final project\node_modules\domhandler\lib\index.d.ts.map133348256541141479 0
-64C:\Users\izi\Desktop\course\final project\dist\logo.726d37a8.png133348374061304489 0
+64C:\Users\izi\Desktop\course\final project\dist\logo.726d37a8.png133349075474579275 0
 108C:\Users\izi\Desktop\course\final project\node_modules\css-select\node_modules\entities\lib\esm\index.js.map133348256638416919 0
 90C:\Users\izi\Desktop\course\final project\node_modules\core-js\actual\instance\group-by.js133348353923919638 0
 78C:\Users\izi\Desktop\course\final project\node_modules\domhandler\lib\index.js133348256531430064 0
@@ -6299,7 +6299,7 @@
 89C:\Users\izi\Desktop\course\final project\node_modules\core-js\es\typed-array\index-of.js133348353929469623 0
 87C:\Users\izi\Desktop\course\final project\node_modules\@swc\helpers\esm\_export_star.js133348256676796932 0
 84C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\iterator\take.js133348354001038436 0
-69C:\Users\izi\Desktop\course\final project\dist\index.f7626f62.css.map133348374061805135 0
+69C:\Users\izi\Desktop\course\final project\dist\index.f7626f62.css.map133349075476719241 0
 88C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\iterator\to-array.js133348354001788446 0
 88C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\iterator\to-async.js133348354001888475 0
 82C:\Users\izi\Desktop\course\final project\node_modules\core-js\full\instance\at.js133348353841838049 0
@@ -9147,7 +9147,7 @@
 107C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\LICENSE133348256578506914 0
 112C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\package.json133348256641646908 0
 115C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\compress.js133348256608706921 0
-67C:\Users\izi\Desktop\course\final project\dist\favicon.8b2f57bf.png133348374061124516 0
+67C:\Users\izi\Desktop\course\final project\dist\favicon.8b2f57bf.png133349075474579275 0
 111C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace133348256639576872 1
 115C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure133348256638956873 1
 112C:\Users\izi\Desktop\course\final project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\usage.js133348256637896885 0
@@ -9624,8 +9624,8 @@
 70C:\Users\izi\Desktop\course\final project\node_modules\.bin\semver.ps1133348256768484155 0
 82C:\Users\izi\Desktop\course\final project\node_modules\.bin\update-browserslist-db133348256768514154 0
 72C:\Users\izi\Desktop\course\final project\dist\final project.3464ddca.js133348341423995836 0
-65C:\Users\izi\Desktop\course\final project\dist\icons.21bad73c.svg133348374061014507 0
-65C:\Users\izi\Desktop\course\final project\dist\icons.dfd7a6db.svg133348374061014507 0
+65C:\Users\izi\Desktop\course\final project\dist\icons.21bad73c.svg133349075476269288 0
+65C:\Users\izi\Desktop\course\final project\dist\icons.dfd7a6db.svg133349075476259303 0
 74C:\Users\izi\Desktop\course\final project\dist\index.f7626f62.css.13608.32133348343427233810 0
 78C:\Users\izi\Desktop\course\final project\dist\index.f7626f62.css.map.10752.38133348351914121988 0
-57C:\Users\izi\Desktop\course\final project\dist\index.html133348374061024538 0
+57C:\Users\izi\Desktop\course\final project\dist\index.html133349065217507947 0
