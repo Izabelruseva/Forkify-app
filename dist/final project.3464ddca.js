@@ -253,6 +253,7 @@ if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== "undefined") {
                 return asset.type === "css" || asset.type === "js" && hmrAcceptCheck(module.bundle.root, asset.id, asset.depsByBundle);
             });
             if (handled) {
+                // console.log(` `);
                 if (typeof window !== "undefined" && typeof CustomEvent !== "undefined") window.dispatchEvent(new CustomEvent("parcelhmraccept"));
                 await hmrApplyUpdates(assets);
                 // Dispose all old assets.
