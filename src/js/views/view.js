@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg'; // Parcel 2
+import icons from 'url:../../img/icons.svg'; 
 
 export default class View {
   _data;
@@ -42,7 +42,7 @@ export default class View {
         !newEl.isEqualNode(curEl) &&
         newEl.firstChild?.nodeValue.trim() !== ''
       ) {
-        console.log('💥', newEl.firstChild.nodeValue.trim());
+        // console.log('💥', newEl.firstChild.nodeValue.trim());
         curEl.textContent = newEl.textContent;
       }
 
